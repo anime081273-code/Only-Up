@@ -68,7 +68,7 @@ Yes — reaching the top completes the climb.
 
 Contributions to expand tips, walkthrough sections, or fix inaccuracies are welcome — open a pull request or issue.
 
-## License
+# License
 
-Just for information.
+All rights reserved. This content is not licensed for reuse, redistribution, or modification without permission.
 
