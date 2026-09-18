@@ -1,6 +1,6 @@
 # Only-Up
 Only Up! guide, tips, and walkthrough — climb the tower, avoid common stuck points, and reach the top faster.
-# Only Up! — Guide, Tips & Walkthrough
+# Only Up! — Guide, Tips & Walkthrough.
 
 Only Up! is a viral platforming game where you climb an endless vertical tower, jumping between floating objects, ruins, and surreal landscapes to reach the sky. This repo is a reference guide for **Only Up!** — covering tips, controls, common stuck points, and a general walkthrough for players trying to get further up the tower.
 
@@ -70,4 +70,5 @@ Contributions to expand tips, walkthrough sections, or fix inaccuracies are welc
 
 ## License
 
-Add a license here if you want others to freely reuse or contribute to this content.
+Just for information.
+
